@@ -1,0 +1,4129 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- rel=dynamic-content indicates an element that is replaced with the contents produced by the specified href. 
+	 dyn-cs:* URIs are resolved using the values within the 'wp_dynamicContentSpots_85' theme module. -->
+    <link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/sp/mashup:ra:collection?soffset=0&amp;eoffset=21&amp;themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1698442332785&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=bco_personas_css__1.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_theme_portal_edit_85__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=bco_header_css__1.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=bco_fonts__1.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css&amp;entry=wp_mark_cookiePopUp__0.0.1%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=css_wcm_custom__0.0%3Ahead_css&amp;entry=bco_transversal_css__1.0%3Ahead_css&amp;entry=wp_analytics_aggregator__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="/wps/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/sp/mashup:ra:collection?soffset=0&amp;eoffset=10&amp;themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1698442760984&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_ic4_wai_resources__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wp_analytics_tags__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css&amp;deferred=true"><script src="https://connect.facebook.net/signals/config/3047638578854949?v=2.9.138&amp;r=stable&amp;domain=www.banistmo.com" async=""></script><script src="https://connect.facebook.net/signals/config/1638640773132669?v=2.9.138&amp;r=stable&amp;domain=www.banistmo.com" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://static.hotjar.com/c/hotjar-751516.js?sv=7"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-D4YYWT809S&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5DTRK5N"></script><script type="text/javascript">var djConfig={"baseUrl":"/wps/portal_dojo/v1.9/dojo/","locale":"es","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/wps/themeModules/js/com","ibm":"/wps/themeModules/js/ibm","pagebuilder":"/wps/themeModules/modules/pagebuilder/js","portalclient":"/wps/themeModules/modules/portalclient/js","asa":"/wps/themeModules/modules/asa/js","contentmapping":"/wps/themeModules/modules/contentmapping/js","federation":"/wps/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_2G9I1K41NO8490QLEAGI8QBKK7"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_000000000000000000000000A0","Z6_2G9I1K41NO8490QLEAGI8QBKK7","Z6_2G9I1K41NO8490QLEAGI8QBKK7","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0","Z6_38G2HA80N87M00AB62GT7520B5"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_38G2HA80N87M00AB62GT7520B5','Z6_2G9I1K41NO8490QLEAGI8QBKK7'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='/wps/portal';wpModules.state.page.protectedPath='/wps/myportal';wpModules.state.page.publicPath='/wps/portal';})();</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1697605504010&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=bco_jquery_js__1.0%3Ahead_js&amp;entry=wp_mark_cookiePopUp__0.0.1%3Ahead_js&amp;entry=wp_analytics_aggregator__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/wps/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1674171396000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;deferred=true"><link id="wOC7_0xwLx7" rel="alternate" href="https://www.banistmo.com/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/"><script type="text/javascript">(function() {
+	var element = document.getElementById("wOC7_0xwLx7");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><link rel="alternate" id="head_markup_deferred" href="/wps/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_layout_windowstates__0.0%3Ahead_markup&amp;deferred=true"><link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!2OsYMS-7DwlYKfqdYsSVqg/sp/mashup:ra:collection?soffset=0&amp;eoffset=4&amp;themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;portlet=true&amp;mime-type=text%2Fcss&amp;lm=1674171396000&amp;entry=wp_one_ui_303__0.0%3Ahead_css" type="text/css"><!--[if IE 7]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie lotusui_ie7";</script>
+<![endif]--> 
+<!--[if IE 8]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie8";</script>
+<![endif]-->
+<!--[if IE 9]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie9";</script>
+<![endif]-->
+<base href="https://www.banistmo.com/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/">
+<title>Soluciones bancarias: Cuenta Express, préstamos y más</title>
+
+<meta content="Mi descripcion personalizada" name="description"><meta content="index, follow" name="robots"><meta content="Envía y recibe dinero fácil y rápido. Encuentra todo lo que buscas.  Somos una compañía que cuenta con la solidez y el respaldo del Grupo Bancolombia." name="description"><meta content="index, follow" name="robots">
+<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzJHOUkxSzQxTk84NDkwUUxFQUdJOFFCS0s3/">
+
+
+<link href="/wps/contenthandler/!ut/p/digest!ZyFSGpidGCbMntrnATyO5Q/dav/fs-type1/themes/BanistmoPersonas/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<base href="https://www.banistmo.com/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/">
+<title>Soluciones bancarias: Cuenta Express, préstamos y más</title>
+
+<meta content="Mi descripcion personalizada" name="description"><meta content="index, follow" name="robots"><meta content="Envía y recibe dinero fácil y rápido. Encuentra todo lo que buscas.  Somos una compañía que cuenta con la solidez y el respaldo del Grupo Bancolombia." name="description"><meta content="index, follow" name="robots">
+	<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzJHOUkxSzQxTk84NDkwUUxFQUdJOFFCS0s3/">
+	<link rel="bookmark" title="Soluciones bancarias: Cuenta Express, préstamos y más" href="/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzJHOUkxSzQxTk84NDkwUUxFQUdJOFFCS0s3/" hreflang="es">
+
+
+<link href="/wps/contenthandler/!ut/p/digest!ZyFSGpidGCbMntrnATyO5Q/dav/fs-type1/themes/BanistmoPersonas/images/favicon-grupo.ico" rel="shortcut icon" type="image/x-icon">
+<base href="https://www.banistmo.com/wps/portal/banistmo/personas/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijdwtPQ29TQz9_C1MLA0CfVwd3T0tAp28vc31w8EKDHAARwP9KGL041EQhd_4cP0osBJjC3cjD0cLAz8Lc1-ghJOZkXuIuamRgZMpVAEeMwpyQyMMMh0VATolY7I!/">
+<link rel="alternate" href="https://www.banistmo.com/wps/portal/banistmo/personas" hreflang="es-CO">
+
+	        <link rel="canonical" href="https://www.banistmo.com/wps/portal/banistmo/personas">
+	    
+<meta property="og:title" content="Soluciones bancarias: Cuenta Express, préstamos y más">
+<meta property="og:site_name" content="Banistmo">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.banistmo.com/wps/portal/banistmo/personas">
+<meta property="og.locale" content="es_CO">
+<script type="text/javascript">
+      window.dataLayer = window.dataLayer || [];
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script defer="">
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-5DTRK5N");
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const closeButton = document.querySelector(".close");
+        const chatButton = document.querySelector(".btn-chat");
+
+     	if(closeButton){
+   	  closeButton.addEventListener("click", function () {
+          chatButton.style.display =
+            chatButton.style.display === "none" ? "block" : "none";
+          closeButton.classList.toggle("open");
+           });
+         }
+      });
+    </script>
+  <script async="" src="https://script.hotjar.com/modules.618aa075c4d9b6424e07.js" charset="utf-8"></script><meta http-equiv="origin-trial" content="AymqwRC7u88Y4JPvfIF2F37QKylC04248hLCdJAsh8xgOfe/dVJPV3XS3wLFca1ZMVOtnBfVjaCMTVudWM//5g4AAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjk1MTY3OTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+
+  <body class="toolbar-closed">
+    <div class="wpthemeFrame">
+      <header role="banner" tabindex="-1" aria-label="Main header">
+        </header>
+    </div>
+    <!-- end frame class="wpthemeMainContent" -->
+    <div role="main" tabindex="-1" aria-label="IBM WebSphere Portal" id="main-content">
+      <!-- required - do not remove -->
+      <div style="display:none" id="portletState">{}</div><div id="layoutContainers" class="wpthemeLayoutContainers wpthemeLayoutContainersHidden">
+        <div class="wpthemeInner">
+          <!--
+Copyright 2014  IBM Corp. 
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0 
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+-->
+
+<div class="hiddenWidgetsDiv">
+	<!-- widgets in this container are hidden in the UI by default -->
+	<div class="component-container ibmDndRow hiddenWidgetsContainer wpthemeCol12of12 wpthemeFull id-Z7_0O9D02RJBBIV4KGPLRR23LBIT5" name="ibmHiddenWidgets"></div><div style="clear:both"></div>
+</div>
+<!-- this layout has one full width row on top with two columns underneath of equal width -->
+<div class="fullWidthContainer">
+
+   
+        <div class="component-container fullWidthColumn wpthemeCol ibmDndColumn id-Z7_B6DRRJ7CKPL8QBR3J659KFFI64" name="ibmMainContainer"><div class="component-control id-Z7_2G9I1K41NO8490QLEAGI8QBK25"><span id="Z7_2G9I1K41NO8490QLEAGI8QBK25"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41NO8490QLEAGI8QBK25">
+		<span class="asa.portlet.id">Z7_2G9I1K41NO8490QLEAGI8QBK25</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+        
+            
+                
+                    
+                    
+                       
+                        
+                            <link href="/wps/wcm/connect/www.banistmo.com11237/92e2a500-1006-469d-8143-32bbc0609026/styles-general_act_27_12_2023.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-92e2a500-1006-469d-8143-32bbc0609026-oOICKgv" type="text/css" rel="stylesheet">
+
+
+  <nav class="navbar bg-black" id="menu-top">
+    <div class="container">
+        <ul class="nav navbar-nav">
+            <li><a href="/wps/portal/banistmo/personas" class="active">Personas</a></li>
+            <li><a href="/wps/portal/banistmo/pymes">Pymes</a></li>
+            <li><a href="/wps/portal/banistmo/empresas">Empresas</a></li>
+            <li><a href="/wps/portal/banistmo/acerca-de">Acerca de nosotros</a></li>
+        </ul>
+
+<ul class="nav navbar-nav" style="float: right;">
+<li style="background-color:#FDDA24;">
+
+<a href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/cuenta-express" title="" style="color:#292929;" id="Abre tu cuenta"> <b style="font-family:OpenSans-bold;">Abre tu cuenta</b></a></li>
+
+
+<li>
+
+<a href="/wps/portal/banistmo/personas/productos-y-servicios/canales-de-atencion" id="Canales de atención">  Canales de atención</a></li>
+</ul>
+
+
+    </div>
+</nav>
+
+<div id="main-menu">
+
+    <div class="row-fluid">
+        <div class="navbar navbar-default menu">
+
+            <!-- icon-bar responsive -->
+            <div class="navbar-header">
+                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-collapse-grid">
+                    <span class="icon-bar"></span><span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <!-- icon-bar responsive -->
+
+            <div class="navbar-collapse collapse" id="navbar-collapse-grid">
+
+                <!-- menú -->
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a class="navbar-brand" href="/wps/portal/banistmo/personas">
+<img src="/wps/wcm/connect/www.banistmo.com11237/f0f014f2-9c5f-44c4-b47a-114aa6f7d6ad/Logo-Banistmo.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f0f014f2-9c5f-44c4-b47a-114aa6f7d6ad-oIUWl0t" alt="Banistmo" width="135" height="23" style="margin-top:0px;">
+                        </a>
+                    </li>
+
+                    <li class="dropdown menu-fw"><a href="/wps/portal/banistmo/personas"><strong>Inicio</strong></a>
+                    </li>
+
+                    <li class="dropdown menu-fw"><a class="dropdown-toggle" href="#" data-toggle="dropdown">Productos &amp;
+                            Servicios</a>
+                        <ul class="dropdown-menu">
+                            <li class="drop-submenu">
+                                <div class="col-sm-6">
+                                    <h2>Productos &amp; Servicios</h2>
+                                   
+ <div class="col-sm-6" style="margin-top:-15px;">
+ <ul>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/depositos">Depósitos</a>
+                                        </li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/tarjetas-debito">Tarjetas de Débito</a></li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/tarjetas-credito">Tarjetas de Crédito</a></li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/prestamos">Préstamos</a>
+                                        </li>
+                                      
+                                    </ul>
+</div>
+
+ <div class="col-sm-6" style="margin-top:-15px;">
+                                    <ul>
+
+  <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/pagos/codigoqr">QR Banistmo</a></li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/seguros-personales">Seguros y Asistencias</a></li>
+                                       
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/galeria-inmobiliaria">Galería
+                                                Inmobiliaria</a></li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/transferencias-internacionales">Transferencias
+                                                Internacionales</a></li>
+                                       
+                                    </ul>
+
+</div>
+                                </div>
+
+
+<div class="col-sm-3">
+                                    <h2>Programas &amp; Beneficios</h2>
+                                    <ul>
+                                        
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/catalogo-regalate">Puntos Regálate</a></li>
+
+ <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/promociones">Promociones</a></li>
+
+<li><a href="/wps/portal/banistmo/personas/productos-y-servicios/asalariados">Asalariados</a></li>
+
+<li><a href="/wps/portal/banistmo/personas/productos-y-servicios/jubilados">Jubilados</a></li>
+                                    </ul>
+                                </div>
+
+
+
+
+                                <div class="col-sm-3">
+                                    <h2>Segmentos</h2>
+                                    <ul>
+<li><a href="/wps/portal/banistmo/personas/impulsa">Impulsa</a></li>
+
+                                        
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/plus">Plus</a>
+                                        </li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/preferencial">Preferencial</a>
+                                        </li>
+                                        <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/banca-privada">Banca
+                                                Privada</a></li>
+
+ <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/banikids">Banikids</a>
+                                    </li></ul>
+                                </div>
+
+                                <div class="col-sm-12 shortcut">
+                                    <h2>Canales para tu servicio</h2>
+                                    <ul>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/cajeros">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/97d66c78-2962-4304-a5b6-8866b569be7a/Cajeros.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-97d66c78-2962-4304-a5b6-8866b569be7a-oDRnVM7" alt="" width="48" height="48"> Cajeros
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/banistmo-app">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/9378dc01-73ba-41e3-89f3-f3d96393fcae/Banistmo-app.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-9378dc01-73ba-41e3-89f3-f3d96393fcae-oDRnGtO" alt="" width="48" height="48"> Banistmo App <span>Personas</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/sucursal-virtual-personas">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/39a50d57-bdcf-422a-b8f6-b8e63b2a9f27/BLP.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-39a50d57-bdcf-422a-b8f6-b8e63b2a9f27-oDRnPY8" alt="" width="48" height="48"> Banca en Línea <span>Personas</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/sucursal-telefonica-personas">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/a44949b7-622c-4c1b-a040-3ab7485711ac/Centro-de-atencion-al-cliente.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-a44949b7-622c-4c1b-a040-3ab7485711ac-oDRo0ZF" alt="" width="48" height="48"> Centro de Atención <span>al Cliente</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/sucursal-fisica">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/1f188819-a31e-4573-9f2c-d95e51857fee/Sucursales.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-1f188819-a31e-4573-9f2c-d95e51857fee-oDRnZV." alt="" width="48" height="48"> Surcursales
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/comercios-autorizados">
+                                                <img src="/wps/wcm/connect/www.banistmo.com11237/c95e502c-788b-40e4-a43b-a523fdc8b1e2/Comercios-Autorizados.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-c95e502c-788b-40e4-a43b-a523fdc8b1e2-oDRnSCq" alt="" width="48" height="48"> Comercios Autorizados
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <!-- end menú -->
+
+                <!-- search , buttons -->
+                <div class="navbar-right">
+                    <form class="navbar-form" action="/wps/portal/banistmo/acerca-de/buscador-de-contenido">
+                        <div class="search-component">
+                            <img src="/wps/wcm/connect/www.banistmo.com11237/fb15b3f5-ccc8-45f7-8e85-6e90ba3e0ffb/icon-search.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-fb15b3f5-ccc8-45f7-8e85-6e90ba3e0ffb-oE4aEHv" alt="" width="24" height="24">
+                            <input type="text" id="termino" name="termino" class="form-control btn-search" placeholder="Buscar">
+                        </div>
+                        <a href="/wps/portal/banistmo/personas/productos-y-servicios/servicios-digitales" class="btn btn-default">Servicios Digitales <img src="/wps/wcm/connect/www.banistmo.com11237/42209645-2696-4a41-9055-b31c5e9981da/hand-button.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-42209645-2696-4a41-9055-b31c5e9981da-oIUWKv9" alt="" width="24" height="24"> </a>
+                        <a href="#" target="null" onclick="open(&quot;https://personas.banistmo.com&quot;, &quot;Banistmo&quot;, &quot;status=yes,scrollbars=yes,resizable=yes,fullscreen=yes&quot;);" class="btn btn-primary">Banca en Línea Personas <img src="/wps/wcm/connect/www.banistmo.com11237/bca10970-b270-49c3-b359-7051a6020a21/lock.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-bca10970-b270-49c3-b359-7051a6020a21-oIUX1Iu" alt="" width="24" height="24"> </a>
+                    </form>
+                </div>
+                <!-- end search , buttons -->
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+                        
+                    
+                
+                
+            
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41NG4H106I3K5S2S00Q5"><span id="Z7_2G9I1K41NG4H106I3K5S2S00Q5"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41NG4H106I3K5S2S00Q5">
+		<span class="asa.portlet.id">Z7_2G9I1K41NG4H106I3K5S2S00Q5</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41NOVI906AOGA16T14Q5"><span id="Z7_2G9I1K41NOVI906AOGA16T14Q5"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41NOVI906AOGA16T14Q5">
+		<span class="asa.portlet.id">Z7_2G9I1K41NOVI906AOGA16T14Q5</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style>
+
+
+
+    /* 
+            .text-info{font-size: 11px !important; margin-top:5px;}
+            .h3 h3 {
+            color: #f4bb18; font-size: 24px;}
+            .btn {
+            margin-bottom: 50px !important;}
+            .window {padding: 0px !important;}
+        
+            .text-info {
+                font-size: 11px !important;
+                margin-top: 5px;
+            }
+            
+            .text-left {
+                text-align: left;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            
+            .h3 h3 {
+                color: #f4bb18;
+                font-size: 24px;
+            }
+            
+            .btn {
+                margin-bottom: 50px !important;
+            }
+            
+            .window {
+                padding: 0px !important;
+            } 
+                 */
+    
+    #text-info {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    
+    .text-left {
+        text-align: left;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
+    /* .form-group select {
+        height: 34px;
+        padding: 6px 12px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    } */
+    
+    
+    /* The container */
+    
+    .wrapper {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    
+    /* Hide the browser's default checkbox */
+    
+    .wrapper input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    
+    
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        border: 1px solid black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: transparent;
+    }
+    
+    
+    /* On mouse-over, add a grey background color  */
+    
+    .wrapper:hover input~.checkmark {
+        background-color: transparent;
+    }
+    
+   
+    /* When the checkbox is checked, add a blue background */
+    
+    .wrapper input:checked~.checkmark {
+        background-color: #FDDA24;
+        border: none;
+    }
+    
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    
+    /* Show the checkmark when checked */
+    
+    .wrapper input:checked~.checkmark:after {
+        display: block;
+    }
+    
+    
+    /* Style the checkmark/indicator */
+    
+    .wrapper .checkmark:after {
+        left: 7px;
+        top: 2px;
+        width: 5px;
+        height: 10px;
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    </style><p><style>
+
+h1.banner
+{
+font-size: 52px; line-height: 56px;
+}
+
+h2.banner
+{
+font-size: 28px; line-height: 32px;
+margin-bottom: 10px;
+margin-top: 0px;
+}
+
+h3.banner
+{
+font-size: 24px; line-height: 28px;
+font-family: OpenSans-Regular;
+margin-bottom: 10px;
+margin-top: 0px;
+}
+
+ @media (max-width: 768px) {
+h1.banner
+{
+margin-top: 25px;
+text-align: center;
+}
+
+h2.banner
+{
+margin-top: 10px;
+text-align: center;
+}
+
+h3.banner
+{
+margin-top: 10px;
+text-align: center;
+}
+
+     }
+
+    @media (min-width: 768px) {
+        #banner .texto{
+            text-align: left;
+        }
+
+       h1.banner
+       {
+       margin-top: 25px;
+       margin-bottom: 5px;
+       }
+
+       h2.banner
+{
+margin-top: 0px;
+}
+
+      h3.banner
+{
+margin-top: 0px;
+}
+    }
+
+
+ @media only screen and (max-width: 992px) {
+
+  .image-home-marca {
+    height: auto;
+    }
+  }
+
+  .image-home-marca {
+    max-width: 555px;
+    max-height: 288px;
+    width: 100%;
+  }
+
+
+</style>
+
+</p><div id="Marca Personas" class="banner-slider">
+<div class="container" style="margin-top:50px; margin-bottom:50px;">
+    <div class="row">
+
+      <div class="col-md-6">
+             <img src="/wps/wcm/connect/www.banistmo.com11237/f3c7c635-91f3-433d-a29a-d39f27fd0ac3/Acceso-Como-Tu.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f3c7c635-91f3-433d-a29a-d39f27fd0ac3-oJ9sUck" alt="Banistmo" width="555" height="288" class="image-home-marca" loading="lazy">
+        </div>
+
+      
+        <div class="col-md-6 texto" style="padding-bottom: 25px;">
+
+<h1 class="banner">COMO TÚ</h1>
+
+              <h2 class="banner">Confiamos en el potencial de tu negocio</h2>
+
+              <h3 class="banner">Con las Pymes desde el corazón</h3>
+
+            <br>
+
+            <p class="boton"><a href="/wps/portal/banistmo/pymes/campanas/como-tu" title="" class="btn btn-primary" style="display: initial; height: 35px;">Descubre más</a></p>
+        </div>
+
+
+
+    </div>
+</div>
+</div><p></p>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41N88TB06277P2N53G54"><span id="Z7_2G9I1K41N88TB06277P2N53G54"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41N88TB06277P2N53G54">
+		<span class="asa.portlet.id">Z7_2G9I1K41N88TB06277P2N53G54</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+        
+            
+                
+                    
+                    
+                       
+                        
+                            <link rel="stylesheet" href="/wps/wcm/connect/www.banistmo.com11237/033d51f7-aec6-4bd0-a101-f9ffa880701c/owl.carousel.min.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-033d51f7-aec6-4bd0-a101-f9ffa880701c-oAJoIPn">
+<script type="text/javascript" src="/wps/wcm/connect/www.banistmo.com11237/759f1723-4494-4a1a-8495-78815a22e36d/owl.carousel.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-759f1723-4494-4a1a-8495-78815a22e36d-oAJoRc6"></script>
+<link rel="stylesheet" href="/wps/wcm/connect/www.banistmo.com11237/613fc46c-8465-4cfa-b1aa-3abd781da4ae/home-carousel.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-613fc46c-8465-4cfa-b1aa-3abd781da4ae-oEEsy9p">
+
+<div id="home-carousel" class="">
+    <div class="container">
+        <div class="owl-container">
+            <div class="owl-carousel owl-theme owl-loaded owl-drag"><div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2160px, 0px, 0px); transition: all 0s ease 0s; width: 5760px;"><div class="owl-item cloned" style="width: 720px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#59CBE8;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="MPH">
+<h2>Disfruta las fiestas con tranquilidad</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 20px;">Conoce los beneficios de estar protegido y bríndale a tu familia tranquilidad durante estás fiestas.</p>
+
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-default" href="https://asegurate.segurossura.com.pa/hogar/productos?codigo=33734">Conoce más aquí</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/6a3968e0-a35e-45ac-b419-326e4722a291/MPH.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-6a3968e0-a35e-45ac-b419-326e4722a291-oNGcmlD" loading="lazy" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item cloned" style="width: 720px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#FF7F41;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Puntos Regálate a Millas ConnectMiles">
+<h2>Conecta con nuevos destinos</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 20px;">El viaje que mereces puedes tenerlo con los puntos Regálate de tus tarjetas de crédito.</p>
+
+<br>
+
+</div>
+
+
+</div>
+            
+            <a class="btn btn-default" href="/wps/portal/banistmo/personas/productos-y-servicios/catalogo-regalate/puntos-regalate-a-millas">Redime aquí</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/18197997-e27e-4884-8ddf-f75b609ff396/Banner-CM-HP.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-18197997-e27e-4884-8ddf-f75b609ff396-oKgKpPY" loading="lazy" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item" style="width: 720px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#59CBE8;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Banner Cuenta Express">
+<h1 style="font-size: 52px;">Cuenta Express</h1>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 30px; line-height: 34px;">Más que una Cuenta Digital.</p>
+
+<br>
+
+</div>
+</div>
+            
+            <a class="btn btn-default" href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/cuenta-express">Ábrela Ya</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/a7ed6d8d-cf50-4161-8c67-d0cf965d36fd/BCE-HPP.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-a7ed6d8d-cf50-4161-8c67-d0cf965d36fd-oO0yaBo" loading="lazy" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item active" style="width: 720px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#fdda24;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" id="Plazo Fijo Digital">
+<h2>Conoce el Depósito a Plazo Fijo Digital</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 20px;">Abre tu Plazo Fijo <b class="negrita">100% digital</b> y empieza a generar intereses de forma segura desde Banistmo App.
+</p>
+
+<br>
+
+</div></div>
+            
+            <a class="btn btn-default" href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/deposito-a-plazo-fijo">Descubre más</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/25ba2cc8-6d6a-4ab8-9914-a9cb062be5ab/Banner-Home-DPF.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-25ba2cc8-6d6a-4ab8-9914-a9cb062be5ab-oNZvCPM" loading="lazy" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item" style="width: 720px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#59CBE8;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="MPH">
+<h2>Disfruta las fiestas con tranquilidad</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 20px;">Conoce los beneficios de estar protegido y bríndale a tu familia tranquilidad durante estás fiestas.</p>
+
+<br>
+</div>
+</div>
+            
+            <a class="btn btn-default" href="https://asegurate.segurossura.com.pa/hogar/productos?codigo=33734">Conoce más aquí</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/6a3968e0-a35e-45ac-b419-326e4722a291/MPH.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-6a3968e0-a35e-45ac-b419-326e4722a291-oNGcmlD" loading="lazy" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item" style="width: 720px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#FF7F41;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Puntos Regálate a Millas ConnectMiles">
+<h2>Conecta con nuevos destinos</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 20px;">El viaje que mereces puedes tenerlo con los puntos Regálate de tus tarjetas de crédito.</p>
+
+<br>
+
+</div>
+
+
+</div>
+            
+            <a class="btn btn-default" href="/wps/portal/banistmo/personas/productos-y-servicios/catalogo-regalate/puntos-regalate-a-millas">Redime aquí</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/18197997-e27e-4884-8ddf-f75b609ff396/Banner-CM-HP.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-18197997-e27e-4884-8ddf-f75b609ff396-oKgKpPY" loading="lazy" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item cloned" style="width: 720px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#59CBE8;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" dir="ltr" id="Banner Cuenta Express">
+<h1 style="font-size: 52px;">Cuenta Express</h1>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 30px; line-height: 34px;">Más que una Cuenta Digital.</p>
+
+<br>
+
+</div>
+</div>
+            
+            <a class="btn btn-default" href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/cuenta-express">Ábrela Ya</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/a7ed6d8d-cf50-4161-8c67-d0cf965d36fd/BCE-HPP.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-a7ed6d8d-cf50-4161-8c67-d0cf965d36fd-oO0yaBo" loading="lazy" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div><div class="owl-item cloned" style="width: 720px;"><div class="slide row" style="margin-right:0;margin-left:0;background-color:#fdda24;">
+    
+    
+    <div class="col-lg-6">
+        <div class="texto">
+            <div><div class="banner-slider" id="Plazo Fijo Digital">
+<h2>Conoce el Depósito a Plazo Fijo Digital</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 20px;">Abre tu Plazo Fijo <b class="negrita">100% digital</b> y empieza a generar intereses de forma segura desde Banistmo App.
+</p>
+
+<br>
+
+</div></div>
+            
+            <a class="btn btn-default" href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/deposito-a-plazo-fijo">Descubre más</a>
+            
+        </div>
+    </div>
+        <div class="col-lg-6 slideItem">
+        <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/25ba2cc8-6d6a-4ab8-9914-a9cb062be5ab/Banner-Home-DPF.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-25ba2cc8-6d6a-4ab8-9914-a9cb062be5ab-oNZvCPM" loading="lazy" alt="Home personalizado">
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+</div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span class="icon prev left-arrow"><img src="/wps/wcm/connect/www.banistmo.com11237/614a7e56-f9c7-4a0b-9d70-a71b64c95322/chevron-left-solid.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-614a7e56-f9c7-4a0b-9d70-a71b64c95322-oAJArAj" loading="lazy" alt="Home personalizado"></span></button><button type="button" role="presentation" class="owl-next"><span class="icon next right-arrow"><img src="/wps/wcm/connect/www.banistmo.com11237/b413c8f3-6d04-4a1f-b3c5-f53abeb244e8/chevron-right-solid.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b413c8f3-6d04-4a1f-b3c5-f53abeb244e8-oAJAxv1" loading="lazy" alt="Home personalizado"></span></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+</div>
+</div>
+</div>
+<script>
+    $(document).ready(function(){
+        $('.owl-carousel').owlCarousel({
+            loop : true,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            autoplayHoverPause: true,
+            smartSpeed: 1000,
+            nav : true,
+            navText: ['<span class="icon prev left-arrow"><img src="/wps/wcm/connect/www.banistmo.com11237/614a7e56-f9c7-4a0b-9d70-a71b64c95322/chevron-left-solid.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-614a7e56-f9c7-4a0b-9d70-a71b64c95322-oAJArAj" loading="lazy"  alt="Home personalizado" /></span>', '<span class="icon next right-arrow"><img src="/wps/wcm/connect/www.banistmo.com11237/b413c8f3-6d04-4a1f-b3c5-f53abeb244e8/chevron-right-solid.svg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b413c8f3-6d04-4a1f-b3c5-f53abeb244e8-oAJAxv1" loading="lazy"  alt="Home personalizado" /></span>'],
+            responsiveClass : true,
+            responsive : {
+                0 : {
+                    items : 1
+                },
+                992 : {
+                    items : 1
+                }
+            }
+        });
+    });
+</script>
+                        
+                    
+                
+                
+            
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41NOS6B06IFH8CAB30U6"><span id="Z7_2G9I1K41NOS6B06IFH8CAB30U6"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41NOS6B06IFH8CAB30U6">
+		<span class="asa.portlet.id">Z7_2G9I1K41NOS6B06IFH8CAB30U6</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style>
+
+
+
+    /* 
+            .text-info{font-size: 11px !important; margin-top:5px;}
+            .h3 h3 {
+            color: #f4bb18; font-size: 24px;}
+            .btn {
+            margin-bottom: 50px !important;}
+            .window {padding: 0px !important;}
+        
+            .text-info {
+                font-size: 11px !important;
+                margin-top: 5px;
+            }
+            
+            .text-left {
+                text-align: left;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            
+            .h3 h3 {
+                color: #f4bb18;
+                font-size: 24px;
+            }
+            
+            .btn {
+                margin-bottom: 50px !important;
+            }
+            
+            .window {
+                padding: 0px !important;
+            } 
+                 */
+    
+    #text-info {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    
+    .text-left {
+        text-align: left;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
+    /* .form-group select {
+        height: 34px;
+        padding: 6px 12px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    } */
+    
+    
+    /* The container */
+    
+    .wrapper {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    
+    /* Hide the browser's default checkbox */
+    
+    .wrapper input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    
+    
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        border: 1px solid black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: transparent;
+    }
+    
+    
+    /* On mouse-over, add a grey background color  */
+    
+    .wrapper:hover input~.checkmark {
+        background-color: transparent;
+    }
+    
+   
+    /* When the checkbox is checked, add a blue background */
+    
+    .wrapper input:checked~.checkmark {
+        background-color: #FDDA24;
+        border: none;
+    }
+    
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    
+    /* Show the checkmark when checked */
+    
+    .wrapper input:checked~.checkmark:after {
+        display: block;
+    }
+    
+    
+    /* Style the checkmark/indicator */
+    
+    .wrapper .checkmark:after {
+        left: 7px;
+        top: 2px;
+        width: 5px;
+        height: 10px;
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    </style><p><style type="text/css">
+
+@media (min-width: 768px){
+div.desktop {
+ display: contents;
+}
+
+}
+
+p {
+    margin: 0 0 0px;
+}
+
+</style>
+
+</p><div class="desktop">
+
+<br><br><br>
+
+</div><p></p>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41N83V30Q35Q6ATSO9V0"><span id="Z7_2G9I1K41N83V30Q35Q6ATSO9V0"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41N83V30Q35Q6ATSO9V0">
+		<span class="asa.portlet.id">Z7_2G9I1K41N83V30Q35Q6ATSO9V0</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style>
+
+
+
+    /* 
+            .text-info{font-size: 11px !important; margin-top:5px;}
+            .h3 h3 {
+            color: #f4bb18; font-size: 24px;}
+            .btn {
+            margin-bottom: 50px !important;}
+            .window {padding: 0px !important;}
+        
+            .text-info {
+                font-size: 11px !important;
+                margin-top: 5px;
+            }
+            
+            .text-left {
+                text-align: left;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            
+            .h3 h3 {
+                color: #f4bb18;
+                font-size: 24px;
+            }
+            
+            .btn {
+                margin-bottom: 50px !important;
+            }
+            
+            .window {
+                padding: 0px !important;
+            } 
+                 */
+    
+    #text-info {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    
+    .text-left {
+        text-align: left;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
+    /* .form-group select {
+        height: 34px;
+        padding: 6px 12px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    } */
+    
+    
+    /* The container */
+    
+    .wrapper {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    
+    /* Hide the browser's default checkbox */
+    
+    .wrapper input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    
+    
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        border: 1px solid black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: transparent;
+    }
+    
+    
+    /* On mouse-over, add a grey background color  */
+    
+    .wrapper:hover input~.checkmark {
+        background-color: transparent;
+    }
+    
+   
+    /* When the checkbox is checked, add a blue background */
+    
+    .wrapper input:checked~.checkmark {
+        background-color: #FDDA24;
+        border: none;
+    }
+    
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    
+    /* Show the checkmark when checked */
+    
+    .wrapper input:checked~.checkmark:after {
+        display: block;
+    }
+    
+    
+    /* Style the checkmark/indicator */
+    
+    .wrapper .checkmark:after {
+        left: 7px;
+        top: 2px;
+        width: 5px;
+        height: 10px;
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    </style><p><style>
+p.cajitas {
+font-size: 14px;
+margin-top: 10px;
+line-height: 18px;
+}    
+p.titulo-h6
+{
+font-family: "CIBFontSans-Bold";
+    font-size: 18px;
+    line-height: 20px;
+    color: #2c2a29;
+}
+
+    .bordesCuadrado {
+        box-shadow: 0px 3px 12px rgb(0 0 0 / 10%);
+background-color: #FFFFFF;
+    }
+
+
+@media (max-width: 768px){
+
+div.desplegar
+
+       {
+display: none;
+      } 
+
+ .containerAR {
+            max-height: 650px;
+            height: 650px;
+        }
+
+.bordesCuadrado {
+        height: 225px;
+  }
+
+p.cajitas
+{
+text-align:center; 
+     } 
+
+
+p.boton
+
+{
+text-align:center; 
+      } 
+
+p.titulo-h6
+
+{
+text-align:center; 
+      } 
+}
+
+   @media (min-width: 768px) {
+
+.containerAR {
+max-height: 500px;
+height: 500px;
+    }
+
+.bordesCuadrado {
+        height: 350px;
+    }
+       
+div.desplegar
+
+       {
+display: contents;
+      } 
+    
+    }
+
+</style>
+    
+    </p><div class="form-solicitud-personas">
+<div class="container containerAR">
+
+    <div class="col-xs-12 col-sm-12">
+<br>
+<div align="center">       
+ <h3>
+           Encuentra lo que buscas
+        </h3>
+</div>
+<br>
+    </div>
+
+    <div class="row">
+    
+            <div class="col-xs-6 col-sm-3" style="padding-bottom: 5%;">
+                <div class="bordesCuadrado">
+                    <div class="desplegar">
+                        <a href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/cuenta-express" title="">
+
+                       
+                           <div align="center">  
+<picture>
+<source srcset="/wps/wcm/connect/www.banistmo.com11237/648baa58-49d9-4a07-8a72-0305a403090f/Cuenta-Express-min.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-648baa58-49d9-4a07-8a72-0305a403090f-osk1K28" width="100%" type="image/webp"> 
+<img width="262.5" height="164.93" alt="Cuenta Express" loading="lazy">
+</picture>
+
+</div>
+                        </a>
+                    </div>
+    
+                    <div style="background-color: white; text-align: left;">
+                           <div class="col-xs-12 col-sm-12">
+<br>
+                            <p class="titulo-h6">Abre tu Cuenta Express</p>
+<p class="cajitas">Sin filas, sin horarios y sin ir al banco. </p>
+
+
+<br>
+
+<div class="desplegar">   
+<br> 
+</div>
+
+
+         
+<p class="boton">
+ <a href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/cuenta-express" title="" class="btn btn-primary" id="Cuenta Express">
+               Ábrela aquí
+ 
+      </a>
+</p>
+
+      </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-xs-6 col-sm-3" style="padding-bottom: 5%;">
+                <div class="bordesCuadrado">
+                    <div class="desplegar">
+                        <a href="/wps/portal/banistmo/personas/productos-y-servicios/galeria-inmobiliaria">
+
+                            <div align="center"> 
+<picture>
+<source srcset="/wps/wcm/connect/www.banistmo.com11237/89bddbae-37a8-4598-9cd6-55fe6e2dfb3b/Hipotecas-min.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-89bddbae-37a8-4598-9cd6-55fe6e2dfb3b-osk1ObB" width="100%" type="image/webp"> 
+<img width="262.5" height="164.93" alt="Galería Inmobiliaria" loading="lazy">
+</picture>
+
+</div>
+
+                        </a>
+                    </div>
+                    
+                    <div style="background-color: white; text-align: left;">
+                        
+
+<div class="col-xs-12 col-sm-12">
+<br>
+                            <p class="titulo-h6">Galería Inmobiliaria</p>
+<p class="cajitas"> ¿Buscando un hogar? Encuentra el de tus sueños.  </p>
+
+<br>
+
+<p class="boton">    
+ <a class="btn btn-primary" href="/wps/portal/banistmo/personas/productos-y-servicios/galeria-inmobiliaria" id="Galería Inmobiliaria">
+              Descubre más
+      </a>
+</p>
+
+      </div>
+
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="col-xs-6 col-sm-3" style="padding-bottom: 5%;">
+                <div class="bordesCuadrado">
+                    <div class="desplegar">
+                        <a href="/wps/portal/banistmo/personas/productos-y-servicios/promociones">
+                      
+<div align="center"> 
+<picture>
+<source srcset="/wps/wcm/connect/www.banistmo.com11237/98013b8c-c78d-447a-af3d-8da2d9ea323e/Promociones-min.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-98013b8c-c78d-447a-af3d-8da2d9ea323e-osk1RWC" width="100%" type="image/webp"> 
+<img width="262.5" height="164.93" alt="Promociones" loading="lazy">
+</picture>
+</div>
+
+                        </a>
+                    </div>
+                    
+                    <div style="background-color: white; text-align: left; ">
+                      <div class="col-xs-12 col-sm-12">
+<br>
+                            <p class="titulo-h6">Promociones y beneficios</p>
+<p class="cajitas">Conoce las ventajas que tenemos para ti.  </p>
+    
+
+<br>
+
+
+ <p class="boton">                  
+ <a class="btn btn-primary" href="/wps/portal/banistmo/personas/productos-y-servicios/promociones" id="Promociones">
+              Descubre más
+ 
+      </a>
+</p>
+
+      </div>
+                    </div>
+                    
+                </div>
+            </div>
+            
+            <div class="col-xs-6 col-sm-3" style="padding-bottom: 5%;">
+                <div class="bordesCuadrado">
+                    <div class="desplegar">
+                        <a href="/wps/portal/banistmo/personas/productos-y-servicios/tarjetas-credito">
+                          
+                          <div align="center"> 
+
+<picture>
+<source srcset="/wps/wcm/connect/www.banistmo.com11237/a3e995f5-7bec-4701-a6d3-daf5aa58048e/TDC-min.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-a3e995f5-7bec-4701-a6d3-daf5aa58048e-osk1UC2" width="100%" type="image/webp"> 
+<img width="262.5" height="164.93" alt="Tarjetas de Crédito" loading="lazy">
+</picture>
+
+</div>
+                        </a>
+                    </div>
+                    
+                    <div style="background-color: white; text-align: left;">
+                      <div class="col-xs-12 col-sm-12">
+<br>
+                            <p class="titulo-h6">Tarjetas de crédito</p>
+<p class="cajitas">Son la llave para entrar a un mundo de beneficios.</p>
+ 
+<br>
+
+<p class="boton"> 
+ <a class="btn btn-primary" href="/wps/portal/banistmo/personas/productos-y-servicios/tarjetas-credito" id="Tarjetas de Crédito">
+              Solicítala ya
+ 
+      </a>
+     </p> 
+      </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<p></p>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41NOVI906AOGA16T10E0"><span id="Z7_2G9I1K41NOVI906AOGA16T10E0"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41NOVI906AOGA16T10E0">
+		<span class="asa.portlet.id">Z7_2G9I1K41NOVI906AOGA16T10E0</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style>
+
+
+
+    /* 
+            .text-info{font-size: 11px !important; margin-top:5px;}
+            .h3 h3 {
+            color: #f4bb18; font-size: 24px;}
+            .btn {
+            margin-bottom: 50px !important;}
+            .window {padding: 0px !important;}
+        
+            .text-info {
+                font-size: 11px !important;
+                margin-top: 5px;
+            }
+            
+            .text-left {
+                text-align: left;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            
+            .h3 h3 {
+                color: #f4bb18;
+                font-size: 24px;
+            }
+            
+            .btn {
+                margin-bottom: 50px !important;
+            }
+            
+            .window {
+                padding: 0px !important;
+            } 
+                 */
+    
+    #text-info {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    
+    .text-left {
+        text-align: left;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
+    /* .form-group select {
+        height: 34px;
+        padding: 6px 12px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    } */
+    
+    
+    /* The container */
+    
+    .wrapper {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    
+    /* Hide the browser's default checkbox */
+    
+    .wrapper input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    
+    
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        border: 1px solid black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: transparent;
+    }
+    
+    
+    /* On mouse-over, add a grey background color  */
+    
+    .wrapper:hover input~.checkmark {
+        background-color: transparent;
+    }
+    
+   
+    /* When the checkbox is checked, add a blue background */
+    
+    .wrapper input:checked~.checkmark {
+        background-color: #FDDA24;
+        border: none;
+    }
+    
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    
+    /* Show the checkmark when checked */
+    
+    .wrapper input:checked~.checkmark:after {
+        display: block;
+    }
+    
+    
+    /* Style the checkmark/indicator */
+    
+    .wrapper .checkmark:after {
+        left: 7px;
+        top: 2px;
+        width: 5px;
+        height: 10px;
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    </style><p><style type="text/css">
+
+@media (min-width: 768px){
+div.desktop {
+ display: contents;
+}
+
+}
+
+p {
+    margin: 0 0 0px;
+}
+
+</style>
+
+</p><div class="desktop">
+
+<br><br>
+
+</div><p></p>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41N88TB06277P2N53IN0"><span id="Z7_2G9I1K41N88TB06277P2N53IN0"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41N88TB06277P2N53IN0">
+		<span class="asa.portlet.id">Z7_2G9I1K41N88TB06277P2N53IN0</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <link href="/wps/wcm/connect/www.banistmo.com11237/1022d7f8-3d5a-4855-95a7-11f3ef8c6ce0/styles-carousel-24_08_2023.min.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-1022d7f8-3d5a-4855-95a7-11f3ef8c6ce0-oHKHUGs" type="text/css" rel="stylesheet">
+
+
+
+<link href="/wps/wcm/connect/www.banistmo.com11237/d99ebf44-b0e4-4d13-a3a6-abb4c84a6ea2/stylesBannerDividido.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-d99ebf44-b0e4-4d13-a3a6-abb4c84a6ea2-nu2ktPp" type="text/css" rel="stylesheet">
+<div class="container" style="padding-bottom: 50px;">
+    
+    
+        <div class="col-sm-6" style="background-color:#FF7F41; height:370px">
+    <div class=" txtSlide">
+        <p></p>
+        <h2 class="title-banner-dividido"><div class="banner-slider" dir="ltr" id="Impulsa Personas">
+<h2>Impulsando la banca responsable de las mujeres</h2>
+
+<p style="font-family: 'OpenSans-Regular'; font-size: 16px;line-height: 20px;">Conoce los beneficios de nuestro programa Impulsa.</p>
+</div>
+</h2>
+
+        <p></p>
+
+        
+
+        
+            <a class="btn btn-default" href="/wps/portal/banistmo/personas/impulsa">
+                Descubre más
+            </a>
+        
+       <div>
+         
+        </div>
+    </div>
+</div>    
+        <div class="col-sm-6 slideItem">
+    <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/870b2f21-2e8a-49d3-9a45-d8596f20c335/Impulsa-Personas-Banner.webp?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-870b2f21-2e8a-49d3-9a45-d8596f20c335-oImAlE2" loading="lazy" alt="Impulsa 2023">
+</div>
+    
+</div>
+
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41N8NTE0Q7IMFHTKBTC6"><span id="Z7_2G9I1K41N8NTE0Q7IMFHTKBTC6"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41N8NTE0Q7IMFHTKBTC6">
+		<span class="asa.portlet.id">Z7_2G9I1K41N8NTE0Q7IMFHTKBTC6</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style>
+
+
+
+    /* 
+            .text-info{font-size: 11px !important; margin-top:5px;}
+            .h3 h3 {
+            color: #f4bb18; font-size: 24px;}
+            .btn {
+            margin-bottom: 50px !important;}
+            .window {padding: 0px !important;}
+        
+            .text-info {
+                font-size: 11px !important;
+                margin-top: 5px;
+            }
+            
+            .text-left {
+                text-align: left;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            
+            .h3 h3 {
+                color: #f4bb18;
+                font-size: 24px;
+            }
+            
+            .btn {
+                margin-bottom: 50px !important;
+            }
+            
+            .window {
+                padding: 0px !important;
+            } 
+                 */
+    
+    #text-info {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    
+    .text-left {
+        text-align: left;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
+    /* .form-group select {
+        height: 34px;
+        padding: 6px 12px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    } */
+    
+    
+    /* The container */
+    
+    .wrapper {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    
+    /* Hide the browser's default checkbox */
+    
+    .wrapper input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    
+    
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        border: 1px solid black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: transparent;
+    }
+    
+    
+    /* On mouse-over, add a grey background color  */
+    
+    .wrapper:hover input~.checkmark {
+        background-color: transparent;
+    }
+    
+   
+    /* When the checkbox is checked, add a blue background */
+    
+    .wrapper input:checked~.checkmark {
+        background-color: #FDDA24;
+        border: none;
+    }
+    
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    
+    /* Show the checkmark when checked */
+    
+    .wrapper input:checked~.checkmark:after {
+        display: block;
+    }
+    
+    
+    /* Style the checkmark/indicator */
+    
+    .wrapper .checkmark:after {
+        left: 7px;
+        top: 2px;
+        width: 5px;
+        height: 10px;
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    </style><p><style>
+
+
+@media (min-width: 769px) {
+.mobile {
+    display: none;
+}
+
+.desktop{
+    display: block;
+}
+
+ h1.titulo-principal {
+        margin-left: 45px;
+    }
+
+
+}
+
+
+@media (max-width: 768px){
+.mobile {
+    display: block;
+}
+
+.desktop{
+    display: none;
+}
+
+
+h6.card-descripcion, p.boton
+{
+text-align:center; 
+}
+
+
+
+}
+
+  @media only screen and (max-width: 992px) {
+
+  .image-home-service {
+    height: auto;
+    }
+  }
+
+  .image-home-service {
+    max-width: 720px;
+    max-height: 155px;
+    width: 100%;
+  }
+
+</style> 
+
+
+</p><div class="container">
+  
+
+  <div class="row">
+<div class="mobile"><br></div>
+<div align="center"><h3>Te hacemos la vida más fácil</h3></div>
+<br>
+</div>
+
+
+            <div class="row">
+
+   <div class="col-xs-12 col-md-6" style="padding-bottom: 4%;"> 
+
+
+                        <a href="http://tosto.re/banistmoapppersonas">
+                            <div align="center"> 
+
+<img src="/wps/wcm/connect/www.banistmo.com11237/e801e48a-0ecd-48d4-9241-7659aec6c63a/Banistmo-App.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-e801e48a-0ecd-48d4-9241-7659aec6c63a-oBBmPcu" alt="Banistmo App" width="555" height="155" class="image-home-service" title="Banistmo App" loading="lazy">
+
+</div>
+
+                        </a>
+                   
+
+ <div style="text-align: left;">
+                        
+
+<div class="col-xs-12 col-sm-12" style="background-color: #59CBE8;height:200px">
+<br>
+                            <h6 class="card-descripcion">Banistmo App, soluciones simples para acercarnos más a ti.</h6>
+
+    <br>
+
+<div class="desktop" style="margin-top:20px;"> 
+<br>     
+</div>
+
+     <p class="boton">
+ <a href="http://tosto.re/banistmoapppersonas" class="btn btn-default" id="Banistmo App">
+              Conoce más
+      </a>
+</p>
+<br>
+      </div>
+
+                    </div>
+
+</div>
+
+
+
+   <div class="col-xs-12 col-md-3" style="padding-bottom: 4%;"> 
+
+
+
+ <div>
+                        <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/comercios-autorizados">
+
+                            <div align="center"> 
+<img src="/wps/wcm/connect/www.banistmo.com11237/3ba37531-ac47-4c26-9aae-4fe00512b4f7/CNB.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-3ba37531-ac47-4c26-9aae-4fe00512b4f7-oBBmR-M" alt="Comercios Autorizados" width="262.5" height="155" class="image-home-service" title="Comercios Autorizados" loading="lazy">
+
+
+</div>
+
+                        </a>
+                
+
+ <div style="text-align: left;">
+                        
+
+<div class="col-xs-12 col-sm-12" style="background-color: #F5B6CD; height:200px">
+<br>
+                            <h6 class="card-descripcion">Conoce las ventajas de los Comercio Autorizado que están cerca de ti.</h6>
+              
+<div class="mobile">      
+<br>
+</div>                  
+
+<p class="boton">
+ <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales/comercios-autorizados" class="btn btn-default" id="Comercios Autorizados">
+              Conoce más
+      </a>
+</p>
+<br>
+      </div>
+
+                    </div>
+
+</div>
+</div>
+
+
+  <div class="col-xs-12 col-md-3" style="padding-bottom: 4%;"> 
+
+
+ <div>
+                        <a href="https://asegurate.segurossura.com.pa/?codigo=33734" target="_blank">
+                            <div align="center"> 
+
+<img src="/wps/wcm/connect/www.banistmo.com11237/06becc89-bdf8-4ce4-9654-3e7556ce5fec/Seguros.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-06becc89-bdf8-4ce4-9654-3e7556ce5fec-oBBmVDM" alt="Seguros" width="262.5" height="155" class="image-home-service" title="Seguros" loading="lazy">
+
+</div>
+
+                        </a>
+                   
+
+ <div style="text-align: left;">
+                        
+
+<div class="col-xs-12 col-sm-12" style="background-color: #FDDA24; height:200px">
+<br>
+                            <h6 class="card-descripcion">La familia es lo más importante, asegura su futuro con nosotros.</h6>
+
+<div class="mobile">      
+<br>
+</div>
+
+<p class="boton"> 
+ <a href="https://asegurate.segurossura.com.pa/?codigo=33734" class="btn btn-default" id="Seguros">
+              Conoce más
+ 
+      </a>
+</p>
+
+<br>
+      </div>
+
+                    </div>
+
+</div>
+</div>
+
+
+
+</div>
+
+</div>
+<p></p>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41NO8490QLEAGI8QBKI7"><span id="Z7_2G9I1K41NO8490QLEAGI8QBKI7"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41NO8490QLEAGI8QBKI7">
+		<span class="asa.portlet.id">Z7_2G9I1K41NO8490QLEAGI8QBKI7</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+        
+            
+                
+                    
+                    
+                       
+                        
+                            <link href="/wps/wcm/connect/www.banistmo.com11237/b831385c-7cca-42c9-9973-d731533ef78d/styles-chat.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-b831385c-7cca-42c9-9973-d731533ef78d-nnCUOmV" type="text/css" rel="stylesheet">
+  <a href="https://chat.banistmo.com/chat/ChatQuestion.aspx?ModeSource=CHECKSCHEDULE" target="_blank" class="btn-chat">
+    <img src="/wps/wcm/connect/www.banistmo.com11237/787a4ed0-8cd2-4561-9421-1a2ee4e153d2/icono-chat.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-787a4ed0-8cd2-4561-9421-1a2ee4e153d2-oIUYa3x" alt="" width="26" height="26">
+  </a>
+
+                        
+                    
+                
+                
+            
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41NO8490QLEAGI8QBKI6"><span id="Z7_2G9I1K41NO8490QLEAGI8QBKI6"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41NO8490QLEAGI8QBKI6">
+		<span class="asa.portlet.id">Z7_2G9I1K41NO8490QLEAGI8QBKI6</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <link href="/wps/wcm/connect/www.banistmo.com11237/1022d7f8-3d5a-4855-95a7-11f3ef8c6ce0/styles-carousel-24_08_2023.min.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-1022d7f8-3d5a-4855-95a7-11f3ef8c6ce0-oHKHUGs" type="text/css" rel="stylesheet">
+
+
+
+<link href="/wps/wcm/connect/www.banistmo.com11237/d99ebf44-b0e4-4d13-a3a6-abb4c84a6ea2/stylesBannerDividido.css?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-d99ebf44-b0e4-4d13-a3a6-abb4c84a6ea2-nu2ktPp" type="text/css" rel="stylesheet">
+<div class="container" style="padding-bottom: 50px;">
+    
+        <div class="col-sm-6 slideItem">
+    <img class="img-responsive imgSlide slideItem" src="/wps/wcm/connect/www.banistmo.com11237/77281711-3cca-4f19-b37a-988458865821/ACH-Express.webp?MOD=AJPERES&amp;CONVERT_TO=url&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-77281711-3cca-4f19-b37a-988458865821-oBAjqR0" loading="lazy" alt="Banner ACH Express">
+</div>
+        <div class="col-sm-6" style="background-color:#9A48B8; height:370px">
+    <div class=" txtSlide">
+        <p></p>
+        <h2 class="title-banner-dividido"><style type="text/css">h2.ach, h4.ach
+{
+color:#FFFFFF;
+}
+
+</style>
+<div class="banner-slider" id="ACH Xpress">
+<h2 class="ach">ACH Xpress</h2>
+
+<h4 class="ach">Inmediatez para facilitar tu vida</h4>
+
+<p style="font-size: 16px;line-height: 20px;color:#FFFFFF;">Ahora puedes hacer envíos de hasta $500.00 sin importar el día o la hora, tu dinero llegara de manera inmediata a los bancos participantes.</p>
+<br>
+<a class="btn btn-default" href="/wps/portal/banistmo/empresas/productos-y-servicios/cash-management/pagos-transferencias-ach" style="background:#FFFFFF;border:0px;margin-top: 0px;">Descubre más</a></div>
+</h2>
+
+        <p></p>
+
+        
+
+        
+       <div>
+         
+        </div>
+    </div>
+</div>
+
+    
+    
+</div>
+
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41NO8490QLEAGI8QBKI5"><span id="Z7_2G9I1K41NO8490QLEAGI8QBKI5"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41NO8490QLEAGI8QBKI5">
+		<span class="asa.portlet.id">Z7_2G9I1K41NO8490QLEAGI8QBKI5</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+<div class="learn">
+ <div class="container">
+   
+    
+        <div class="col-sm-3">
+            <div class="card">
+                <img src="/wps/wcm/connect/www.banistmo.com11237/17d3bb8c-e91a-4048-ad5e-e8c0febfc1f2/img-educacion-financiera.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-17d3bb8c-e91a-4048-ad5e-e8c0febfc1f2-oBArEqY" alt="" width="134" height="133">
+<div>  
+                <h5 dir="ltr">Educación financiera</h5>
+
+<p dir="ltr">Financiera mente</p>
+
+<p dir="ltr">Descubre como mantener tu seguridad bancaria y cómo manejar tu dinero.</p>
+
+</div>
+                <p><a class="btn btn-default" href="/wps/portal/banistmo/personas/aprender-es-facil/financiera-mente" role="button">Conoce más</a></p>
+            </div>                    
+        </div>
+    
+
+
+    
+        <div class="col-sm-3">
+            <div class="card">
+                <img src="/wps/wcm/connect/www.banistmo.com11237/87abf4a0-a3bf-4ca4-a454-7f8dbeaff1f0/Enviar-recibir-QR.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-87abf4a0-a3bf-4ca4-a454-7f8dbeaff1f0-oBArgIP" alt="" width="157" height="128">
+<div>  
+                <style>
+.learn .card .btn {
+    text-transform:initial;
+}
+</style>
+
+<h5 dir="ltr">Envía y recibe dinero fácil y rápido</h5>
+
+<p dir="ltr">QR Banistmo</p>
+
+<p dir="ltr">Genera tu código QR desde Banistmo App y envíalo.</p>
+
+</div>
+                <p><a class="btn btn-default" href="/wps/portal/banistmo/personas/productos-y-servicios/pagos/codigoqr" role="button">Conoce más</a></p>
+            </div>                    
+        </div>
+    
+
+
+    
+        <div class="col-sm-3">
+            <div class="card">
+                <img src="/wps/wcm/connect/www.banistmo.com11237/4a43ba0f-3c1e-412d-bf86-f3987f6bab41/Impulsa.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-4a43ba0f-3c1e-412d-bf86-f3987f6bab41-oBArJ50" alt="" width="157" height="128">
+<div>  
+                <style type="text/css">b.negrita {
+
+      font-family: 'CIBFontSans-Bold';
+}
+</style>
+<h5>Para ti mujer</h5>
+
+<p dir="ltr">Impulsa</p>
+
+<p dir="ltr">Aquí puedes compartir, aprender y conectar con otras mujeres.</p>
+
+</div>
+                <p><a class="btn btn-default" href="/wps/portal/banistmo/personas/impulsa" role="button">Conoce más</a></p>
+            </div>                    
+        </div>
+    
+
+
+    
+        <div class="col-sm-3">
+            <div class="card">
+                <img src="/wps/wcm/connect/www.banistmo.com11237/67b5873a-51d0-44e1-ad6c-9e52b3617a5d/il-devices.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-67b5873a-51d0-44e1-ad6c-9e52b3617a5d-oBArLBM" alt="Sácale provecho a tu banco" width="157" height="128" loading="lazy">
+<div>  
+                <h5 dir="ltr">Sácale provecho a tu banco</h5>
+
+<p dir="ltr">Aprender es fácil</p>
+
+<p dir="ltr">Queremos acompañarte a la autogestión.</p>
+
+</div>
+                <p><a class="btn btn-default" href="/wps/portal/banistmo/personas/aprender-es-facil" role="button">Conoce más</a></p>
+            </div>                    
+        </div>
+    
+
+ </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41NOET20642160TB08G5"><span id="Z7_2G9I1K41NOET20642160TB08G5"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41NOET20642160TB08G5">
+		<span class="asa.portlet.id">Z7_2G9I1K41NOET20642160TB08G5</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style>
+
+
+
+    /* 
+            .text-info{font-size: 11px !important; margin-top:5px;}
+            .h3 h3 {
+            color: #f4bb18; font-size: 24px;}
+            .btn {
+            margin-bottom: 50px !important;}
+            .window {padding: 0px !important;}
+        
+            .text-info {
+                font-size: 11px !important;
+                margin-top: 5px;
+            }
+            
+            .text-left {
+                text-align: left;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            
+            .h3 h3 {
+                color: #f4bb18;
+                font-size: 24px;
+            }
+            
+            .btn {
+                margin-bottom: 50px !important;
+            }
+            
+            .window {
+                padding: 0px !important;
+            } 
+                 */
+    
+    #text-info {
+        font-size: 11px;
+        margin-top: 5px;
+    }
+    
+    .text-left {
+        text-align: left;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    
+    
+    /* .form-group select {
+        height: 34px;
+        padding: 6px 12px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 3px;
+    } */
+    
+    
+    /* The container */
+    
+    .wrapper {
+        display: block;
+        position: relative;
+        padding-left: 35px;
+        margin-bottom: 12px;
+        cursor: pointer;
+        font-size: 14px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+    }
+    
+    
+    /* Hide the browser's default checkbox */
+    
+    .wrapper input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+    }
+    
+    
+    /* Create a custom checkbox */
+    
+    .checkmark {
+        border: 1px solid black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 20px;
+        width: 20px;
+        background-color: transparent;
+    }
+    
+    
+    /* On mouse-over, add a grey background color  */
+    
+    .wrapper:hover input~.checkmark {
+        background-color: transparent;
+    }
+    
+   
+    /* When the checkbox is checked, add a blue background */
+    
+    .wrapper input:checked~.checkmark {
+        background-color: #FDDA24;
+        border: none;
+    }
+    
+    
+    /* Create the checkmark/indicator (hidden when not checked) */
+    
+    .checkmark:after {
+        content: "";
+        position: absolute;
+        display: none;
+    }
+    
+    
+    /* Show the checkmark when checked */
+    
+    .wrapper input:checked~.checkmark:after {
+        display: block;
+    }
+    
+    
+    /* Style the checkmark/indicator */
+    
+    .wrapper .checkmark:after {
+        left: 7px;
+        top: 2px;
+        width: 5px;
+        height: 10px;
+        border: solid black;
+        border-width: 0 1px 1px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    
+    </style><p><style>
+
+.btn {
+    font-family: 'CIBFontSans-Bold';
+    border-radius: 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    text-decoration: none;
+}
+
+.btn-default {
+    color: #333;
+}
+
+    @media only screen and (min-width:1px) and (max-width:767px) {
+    
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala.vista_mobile .bcp_imagen img {
+            height: 48px;
+            width: auto;
+            margin-right: 4px;
+            margin-bottom: 8px;
+        }
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala.vista_mobile {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+    @media only screen and (min-width:1px) {
+
+        .bcp_boton_solicitalo_inferior {
+            position: fixed;
+            width: 100%;
+            z-index: 99;
+            bottom: 0
+        }
+
+        .bcp_boton_solicitalo_inferior.ocultar {
+            z-index: -1;
+        }
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala {
+           background-color: #FDDA24;
+            text-align: center;
+            justify-content: center;
+            align-items: center;
+            transition: all .4s ease;
+            border-radius: 8px 8px 0px 0px;
+        }
+
+        
+    }
+
+    @media only screen and (max-width:767px) {
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala .bcp_btn_solicita {
+            margin: 0px !important;
+            width: 100% !important;
+        }
+    }
+
+
+    @media only screen and (min-width:768px) {
+
+
+        .bcp_boton_solicitalo_inferior {
+            top: calc(100% - 64px);
+            /* z-index: -1; */
+        }
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala {
+            width: unset;
+            background: #FDDA24;
+            box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.1);
+            border-radius: 8px 8px 0px 0px;
+            padding-left: 52px;
+            padding-right: 16px;
+            height: max-content;
+            display: flex;
+            align-items: center;
+        }
+
+       
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala p {
+            font-size: 16px;
+            line-height: 20px;
+            color: #2C2A29;
+            text-align: left;
+            margin: 0px;
+        }
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala .bcp_imagen,
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala .bcp_boton,
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala {
+            display: flex;
+            align-items: center;
+        }
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala .bcp_imagen,
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala  {
+            justify-content: left;
+        }
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala .bcp_boton {
+            justify-content: flex-end;
+        }
+
+        
+
+        .bcp_boton_solicitalo_inferior .icon.bcp-x-f {
+            color: #FF7800;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+      
+    }
+
+    @media only screen and (min-width:1280px) {
+
+        .bcp_boton_solicitalo_inferior .bcp_flex_solicitala {
+            padding-left: 52px;
+            padding-top: 16px;
+            padding-bottom: 16px;
+            padding-right: 16px;
+            height: max-content;
+            display: flex;
+            align-items: center;
+        }
+
+
+    }
+
+
+</style>
+
+
+</p><div id="caja-flotante" style="display: none;">
+
+<div class="bcp_boton_solicitalo_inferior" aria-hidden="true">
+         
+         
+        <div class="row visible-xs bcp_flex_solicitala  vista_mobile">
+            <div class="col-xs-17">
+
+                           <a tabindex="-1">
+                             </a><a href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/cuenta-express" title="" class="btn btn-default" style="margin:8px; padding: 8px 25px 5px 25px; background:#FFFFFF; border: 0px;">Abre tu Cuenta Express aquí</a>
+                   
+            </div>
+         
+        </div>
+        
+
+        
+        <div class="row hidden-xs bcp_flex_solicitala  vista_desktop">
+  
+   <div class="col-sm-2 bcp_grupo_img_texto"></div>
+            <div class="col-sm-6 bcp_grupo_img_texto">
+                
+           
+                
+
+                <div class="bcp_descripcion">
+                    
+                    <h5>Abre tu Cuenta Express 100% digital, solo necesitas tu cédula y celular.</h5>
+
+                    
+
+                </div>
+
+            </div>
+
+            <div class="col-sm-2">
+                
+             
+                    <div align="center">
+                           <a tabindex="-1">
+                          </a><a href="/wps/portal/banistmo/personas/productos-y-servicios/depositos/cuenta-de-ahorros/cuenta-express" title="" class="btn btn-default" style="padding: 8px 25px 5px 25px; margin-top:-3px; background:#FFFFFF; border: 0px;">Conoce más</a>
+                      
+                    </div>
+          
+                
+            </div>
+          
+        </div>
+        
+</div>
+
+ </div>       
+<script>
+
+    window.onscroll = function() {myFunction()};
+
+function myFunction() {
+  if (document.documentElement.scrollTop > 80) {
+    $("#caja-flotante").fadeIn();
+  } else {
+    $("#caja-flotante").fadeOut();
+  }
+}
+
+
+</script>
+    <p></p>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_2G9I1K41NO8490QLEAGI8QBKA4"><span id="Z7_2G9I1K41NO8490QLEAGI8QBKA4"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_2G9I1K41NO8490QLEAGI8QBKA4">
+		<span class="asa.portlet.id">Z7_2G9I1K41NO8490QLEAGI8QBKA4</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+        
+            
+                
+                    
+                    
+                       
+                        
+                            <style>
+.btn {
+    text-transform:initial;
+}
+
+footer .shortcuts a.btn {
+ text-transform:initial;
+}
+
+  #footer-content .shortcuts {
+      background: #fff;
+      padding: 50px 0 0px 0;
+      text-align: center;
+  }
+  
+  
+  #footer-content .shortcuts .block {
+        padding: 20px;
+  }
+          .wptheme1Col .wpthemeCol, .wpthemeInner {width: 100%;float: inherit !important;margin: inherit;}.wpthemeCol {margin-left: 0px !important;}body .wpthemeOverflowAuto {overflow: unset !important;}body .wpthemeClear {clear: none !important;}.wpthemeControl, .wpthemeRow, .wpthemeLayoutContainers {margin: 0 !important;padding: 0 !important;}
+      </style>
+  <script>
+    $(document).ready(function(){
+      $(window).resize(function() {
+          if ($(window).width() <= 767) {
+            $('footer .check-list').hide();
+            $('.title').on('click', function(e) {
+              e.preventDefault();
+                $(".title").removeClass('active');
+                $(this).addClass('active');
+                  $(this).nextUntil('.active').slideDown('slow');
+                  $(".title").not(".active").nextUntil('.title').slideUp('slow');
+            });
+          }else {
+                $('footer .check-list').show();
+            };
+      });
+    });
+  </script>
+     
+  <footer id="footer-content">
+    <div class="row-fluid shortcuts">
+      <div class="container">
+          <div class="row">
+  
+  <h4>¿Necesitas contactarnos? </h4>
+  
+  <div class="col-sm-1"></div>
+  
+               <div class="col-sm-2 block">
+                <a href="https://api.whatsapp.com/send?phone=50765254700" title="Whataspp" target="_blank"> <img src="/wps/wcm/connect/www.banistmo.com11237/f7d2721f-1e3e-4764-beb7-cd227749233b/WhastApp.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f7d2721f-1e3e-4764-beb7-cd227749233b-oIU.D5B" alt="Ícono Chat" title="Whatsapp" loading="lazy" width="48" height="48"></a>
+              <div class="txt">
+             <h3 style="margin-top: 0px;">Escríbenos</h3>
+                <p dir="ltr">Al Whatsapp<br><a href="https://api.whatsapp.com/send?phone=50765254700" target="_blank" style="color:#2c2a29;"><u>6525-4700</u></a>.</p>
+              </div>          
+            </div>
+  
+            <div class="col-sm-2 block">
+                <a href="https://chat.banistmo.com/chat/ChatQuestion.aspx?ModeSource=CHECKSCHEDULE" title="Chat en línea"> <img src="/wps/wcm/connect/www.banistmo.com11237/f77e637a-115c-493e-9031-f5bc82db8c06/Chat-en-linea.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-f77e637a-115c-493e-9031-f5bc82db8c06-oIV04QC" alt="Ícono Chat" loading="lazy" title="Chat en línea" width="48" height="48"></a>
+              <div class="txt">
+             <h3 style="margin-top: 0px;">Chat en línea</h3>
+                <p dir="ltr">Déjanos ayudarte a encontrar lo que buscas.</p>
+              </div>          
+            </div>
+  
+            <div class="col-sm-2 block">
+                <a target="_blank" href="/wps/portal/banistmo/personas/productos-y-servicios/canales/sucursal-telefonica-personas"><img src="/wps/wcm/connect/www.banistmo.com11237/69233c16-83ee-4391-8cd0-7c02d7a938d0/Llamanos.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-69233c16-83ee-4391-8cd0-7c02d7a938d0-oIV0TSK" alt="Ícono Llámanos" loading="lazy" title="Llámanos" width="48" height="48"></a>
+              <div class="txt">
+                   <h3 style="margin-top: 0px;">Llámanos</h3>
+                <p dir="ltr">Al <a href="tel:5073064700" style="color:#2c2a29;"><u>306-4700</u></a>. </p>
+              </div>
+            </div>
+            <div class="col-sm-2 block">
+                <a title="Déjanos Llamarte" target="" href="/wps/portal/banistmo/personas/productos-y-servicios/canales/dejanos-llamarte"><img src="/wps/wcm/connect/www.banistmo.com11237/682d4335-5b69-4619-818e-918fa94fde9d/Llamada.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-682d4335-5b69-4619-818e-918fa94fde9d-oIV1ZWk" alt="Ícono Déjanos Llamarte" loading="lazy" title="Déjanos Llamarte" width="48" height="48"></a>
+              <div class="txt">
+               <h3 style="margin-top: 0px;">Déjanos llamarte</h3>
+                <p dir="ltr">Déjanos tus datos para que te contactemos.</p>
+              </div>
+            </div>
+            <div class="col-sm-2 block last">
+                <a title="Visítanos" target="" href="/wps/portal/banistmo/personas/buscador-sucursales"><img src="/wps/wcm/connect/www.banistmo.com11237/20953d95-d783-4f42-8e26-9252954e138d/Visitanos.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-20953d95-d783-4f42-8e26-9252954e138d-oIV2FDX" loading="lazy" alt="Ícono Visítanos" title="Visitanos" width="48" height="48"></a>
+              <div class="txt">
+                     <h3 style="margin-top: 0px;">Visítanos</h3>
+                <p dir="ltr">Busca nuestro próximo lugar de encuentro.</p>
+              </div>
+            </div>
+  
+            <div class="col-sm-1"></div>
+  
+  
+  <br><br>
+  <div>
+  <a href="/wps/portal/banistmo/personas/productos-y-servicios/canales-de-atencion" target="_blank" class="btn btn-primary">Otros canales de atención &nbsp; &nbsp;  <img src="/wps/wcm/connect/www.banistmo.com11237/eb4dc497-23f5-46db-ad7a-6d4d9f756736/Mask.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-eb4dc497-23f5-46db-ad7a-6d4d9f756736-oIUXrzX" alt="flecha" width="18" height="17" style="height:17px;margin-bottom:5px;"></a>
+  
+  
+  </div>
+  <br><br>
+  
+          </div>
+        </div>
+    </div>
+  
+    <div class="container-fluid links">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-3">
+            <div class="row">
+              <h3 class="title">Comunícate con nosotros</h3>
+              <ul class="check-list" dir="ltr">
+                  <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/canales-de-atencion" target="" title="">Contáctanos</a></li>
+                  <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/trabaja-con-nosotros" target="" title="">Trabaja con nosotros</a></li>
+              </ul>            
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <div class="row">
+              <h3 class="title">Accesos rápidos</h3>
+              <ul class="check-list" dir="ltr">
+                  <li><a href="/wps/portal/banistmo/acerca-de/glosario-de-terminos" target="" title="">Glosario</a></li>
+                  <li><a href="/wps/portal/banistmo/personas/productos-y-servicios/simuladores" target="" title="">Simuladores</a></li>
+                  <li><a href="/wps/portal/banistmo/acerca-de/informacion-corporativa/sostenibilidad" target="" title="">Sostenibilidad</a></li>
+                  <li><a href="/wps/portal/banistmo/acerca-de/mapa-del-sitio" target="" title="">Mapa del sitio</a></li>
+                  <li><a href="/wps/portal/banistmo/acerca-de/tarifario" target="" title="">Tarifario</a></li>
+                  <li><a href="https://personas.banistmo.com">Transacciones</a></li>
+                  <li><a href="/wps/portal/banistmo/personas/aprender-es-facil" target="" title="">Aprender es fácil</a></li>
+                  <li><a href="/wps/portal/banistmo/personas/impulsa" target="" title="">Impulsa</a></li>
+            
+              </ul>            
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <div class="row">
+              <h3 class="title">Legales</h3>
+              <ul class="check-list" dir="ltr">
+  
+       <li><a href="/wps/portal/banistmo/acerca-de/aviso-de-privacidad" target="" title="">Aviso de privacidad</a></li>
+                  <li><a href="/wps/portal/banistmo/acerca-de/seguridad" target="" title="">Seguridad y privacidad</a></li>
+  
+                  <li><a href="/wps/portal/banistmo/personas/aprender-es-facil/legales/fatca" target="" title="">FATCA &amp; CRS</a></li>
+                  <li><a href="/wps/portal/banistmo/empresas/productos-y-servicios/itbms" target="" title="">ITBMS</a></li>
+                  <li><a href="/wps/wcm/connect/www.banistmo.com11237/c4d78b09-894e-4a17-b8c8-624a706daf80/ProhibicionesSuperIntendenciaDeBancosSIB.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-c4d78b09-894e-4a17-b8c8-624a706daf80-noplGiy" download="ProhibicionesSuperIntendenciaDeBancosSIB" target="" title="">Prohibiciones</a></li>
+                  <li><a href="/wps/portal/banistmo/personas/aprender-es-facil/legales/laft" target="" title="">Prevención de lavado de activos</a></li>
+<li><a href="/wps/portal/banistmo/acerca-de/proteccion-de-datos-personales" target="" title="">Protección de datos personales</a></li>
+                  <li><a href="/wps/portal/banistmo/acerca-de/gestion-2022" target="" title="">Gestión 2022</a></li>
+                  <li><a href="/wps/portal/banistmo/acerca-de/sala-de-prensa/todos-los-articulos/comunicaciones-corporativas/retencion-de-impuestos-de-inmuebles" target="" title="">Retención impuesto de inmuebles</a></li>
+              </ul>            
+            </div>
+          </div>
+          <div class="col-sm-3">
+            <div class="row social">
+              <h3>Síguenos en redes:</h3>
+              <ul class="networks" dir="ltr">
+                  <li class="facebook"><a href="https://www.facebook.com/Banistmo">Facebook</a></li>
+                  <li class="twitter"><a href="https://twitter.com/banistmo">Twitter</a></li>
+                  <li class="instagram"><a href="https://www.instagram.com/banistmo">Instagram</a></li>
+                  <li class="youtube"><a href="https://www.youtube.com/banistmoPanama">YouTube</a></li>
+                  <li class="linkedin"><a href="https://www.linkedin.com/company/banistmo">LinkedIn</a></li>
+              </ul>
+              <img src="/wps/wcm/connect/www.banistmo.com11237/ffbb836a-cf33-427d-a86c-e3a9081228d9/logo-sbp.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-ffbb836a-cf33-427d-a86c-e3a9081228d9-oDRG79v" alt="Superintendencia de Bancos de Panamá" width="150" height="150">
+            </div>
+          </div>        
+        </div>   
+      </div>
+    </div>
+  
+    <div class="row-fluid copy">
+      <div class="container">
+        <div class="col-sm-5 logo-banistmo-footer-bco">
+          <a href="/wps/portal/banistmo/personas" class="logo-banistmo">
+             <img src="/wps/wcm/connect/www.banistmo.com11237/de872b1a-fb3b-4e45-a0f1-7850820269bf/Banistmo.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-de872b1a-fb3b-4e45-a0f1-7850820269bf-oIUUYzb" alt="" width="155" height="26">
+          </a>
+        </div>
+        <div class="col-sm-7">
+          <p dir="ltr" style="color: #FFFFFF;">Copyright © 2024 Banistmo</p>
+          <a href="https://www.grupobancolombia.com/personas" class="logo-bancolombia">
+             <img src="/wps/wcm/connect/www.banistmo.com11237/144957fa-bd42-441e-a29b-ef21e673b9a9/Grupo-Bancolombia-Logo.webp?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-144957fa-bd42-441e-a29b-ef21e673b9a9-oIUVoDY" alt="" width="128" height="30">
+          </a>
+        </div>            
+      </div> 
+    </div>
+  
+  </footer>
+                        
+                    
+                
+                
+            
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div></div></div>
+<div class="wpthemeClear"></div>
+        </div>
+      </div>
+    </div><link rel="alternate" href="https://www.banistmo.com/wps/portal/banistmo/personas" hreflang="es-pa">
+<script type="text/javascript" id="" src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script><iframe id="_hjSafeContext_45863630" title="_hjSafeContext" tabindex="-1" aria-hidden="true" src="about:blank" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe>
+
+    <!--end main content-->
+
+    <!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+        This is located here instead of the head section to improve client performance. -->
+    <div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" tabindex="-1" aria-labelledby="wpthemeComplementaryContentText">
+      <span class="wpthemeAltText" id="wpthemeComplementaryContentText"></span>
+      <script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!ZyFSGpidGCbMntrnATyO5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1702516032663&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"custom.portal.theme.BanistmoPersonas","themeRootURI":"/wps/contenthandler/!ut/p/digest!ZyFSGpidGCbMntrnATyO5Q/dav/fs-type1/themes/BanistmoPersonas","themeWebAppBaseURI":"/wps/defaultTheme85/themes/html/dynamicSpots","themeWebDAVBaseURI":"dav:fs-type1/themes/BanistmoPersonas/","modulesWebAppBaseURI":"/wps/themeModules","commonResourcesRootURI":"/wps/contenthandler/!ut/p/digest!ZyFSGpidGCbMntrnATyO5Q/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Soluciones bancarias: Cuenta Express, préstamos y más","currentContentNodeOID":"Z6_2G9I1K41NO8490QLEAGI8QBKK7","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":["system/WebContentCategory.json,label:shelf_socialCategory"],"styleSources":[],"layoutSources":["system/BootstrapLayouts.json","dav:fs-type1/system/layouts.json"]},"portalConfig":{"locale":"es","portalURI":"/wps/portal","contentHandlerURI":"/wps/contenthandler/!ut/p/digest!OdDHe0KP6FKK9Y0KWyqesA/","pocURI":"/wps/portal/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":true,"canImpersonate":false,"themeRootURI":"/wps/defaultTheme85/themes/html/dynamicSpots","parentPageID":"Z6_38G2HA80N87M00AB62GT7520B5","currentPageOID":"Z6_2G9I1K41NO8490QLEAGI8QBKK7","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_2G9I1K41NO8490QLEAGI8QBKK7&#034;&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_2G9I1K41NO8490QLEAGI8QBKK7&#034;/&gt;&lt;mapping src=&#034;Z6_2G9I1K41NO8490QLEAGI8QBKK7&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_38G2HA80N87M00AB62GT7520B5&#034;/&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":true,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_dynamicContentSpots_85":"0.0","wp_dialog_draggable":"0.0","wp_hiddenpages":"0.0","wp_simple_contextmenu_ext":"0.0","wp_simple_contextmenu_js":"0.0","wp_toolbar_sitepreview_menuactions":"0.0","wp_portlet_css":"0.0","wp_theme_utils":"0.0","wp_toolbar_menuactions":"0.0","wp_toolbar_host_view":"0.0","wp_hiddencontent":"0.0","wp_portal":"0.0","photon.dom":"1.0","wp_photon_dom":"0.0","wp_toolbar_sitepreview":"0.0","highContrast":"1.0","bco_personas_css":"1.0","wp_client_tracing":"0.0","modules":"0.1","hasBaseURL":"true","oneUI":"3.0.3","wp_state_page_modes":"0.0","bco_header_css":"1.0","wp_toolbar_common_actionbar":"0.0","wp_client_main":"0.0","wp_toolbar_viewframe_validator":"0.0","wp_high_contrast":"0.0","wp_mark_cookiePopUp":"0.0.1","wp_toolbar_actionbar":"0.0","simple-contextmenu":"1.1","css_wcm_custom":"0.0","wp_dialog_css":"0.0","bco_jquery_js":"1.0","wp_client_logging":"0.0","wp_state_page":"0.0","wp_toolbar_common":"0.0","bco_transversal_css":"1.0","wp_theme_portal_edit_85":"0.0","wp_toolbar_projectmenu":"0.0","wp_dialog_main":"0.0","bco_transversal_js":"1.0","wp_simple_contextmenu_main":"0.0","wp_one_ui":"3.0.3","bco_fonts":"1.0","wp_toolbar_moremenu":"0.0","wp_custom_page_style":"0.0","wp_toolbar_contextmenu":"0.0","wp_searchbar":"0.0","wp_toolbar_informationmode":"0.0","wp_client_ext":"0.0","wp_simple_contextmenu_css":"0.0","wp_toolbar85":"0.0","wp_BanistmoDynTheme":"0.0","wp_modules":"0.0","wp_analytics_aggregator":"0.0","toolbar":"8.5","wp_dialog_util":"0.0","wp_toolbar_utils":"0.0","a11y":"1.0","wp_a11y":"0.0","wp_one_ui_303":"0.0","analytics_aggregator":"8.0","wp_theme_portal_85":"0.0","wp_simple_contextmenu_templates":"0.0","wp_toolbar_logo":"0.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"portalConfig":{"asaConfig":{"canViewAsaReports":"false","canViewAsaSitePromotions":"false","canCreateAsaSitePromotions":"false","canDeleteAsaSitePromotions":"false","reportConfig":{"scopes":[]}}}}});i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1697605500887&amp;entry=bco_transversal_js__1.0%3Aconfig_js&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=wp_high_contrast__0.0%3Aconfig_js&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="/wps/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1702516032000&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_ic4_wai_resources__0.0%3Aconfig_js&amp;entry=wp_skin_cam__0.0%3Aconfig_js&amp;entry=wp_theme_skin_region__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;entry=wp_analytics_tags__0.0%3Aconfig_js&amp;deferred=true" style="display:none"> Deferred Modules </a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><!-- PopUp -->
+<div class="cookie-container active" id="cookie-container">
+  <div id="cookie-close-btn" class="cookie-close-btn" onclick="closeTerminos()">
+    <img class="img-close-btn" src="https://www.banistmo.com/wps/wcm/connect/www.banistmo.com11237/555f45a3-5ac5-47b9-891b-352c053c59c1/close.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_7O9GHBG0O0M4A0Q3JGMS8408B6-555f45a3-5ac5-47b9-891b-352c053c59c1-oql6QFz" alt="Cerrar" width="10" height="10" loading="lazy"> 
+  </div>
+
+  <div class="row-cookie-container">
+    <div class="col col-lg-12 aviso-cookie">
+      <h3>Aviso de Privacidad</h3>
+      <p>
+        En Banistmo S.A contamos con un Aviso de Privacidad, ingresa
+        <a href="/wps/portal/banistmo/acerca-de/aviso-de-privacidad" target="_blank"><strong><u>aquí</u></strong></a>
+        para conocerlo.
+      </p>
+    </div>
+    <div class="col col-lg-3 cookie-btn">
+      <button class="btn-aceptar-cookies" id="btn-aceptar-cookies" onclick="aceptaTerminos()">
+        <strong>Entendido</strong>
+      </button>
+    </div>
+  </div>
+</div>
+<div class="fondo-aviso-cookies active" id="fondo-aviso-cookies"></div>
+<!-- End PopUp -->
+<script>
+
+  const closeTerminos = () => {
+    const cookieContainer = document.getElementById("cookie-container");
+    const fondoAvisoCookies = document.getElementById("fondo-aviso-cookies");
+  
+    fondoAvisoCookies.classList.remove("active");
+    cookieContainer.classList.remove("active");    
+  };
+
+  const aceptaTerminos = () => {
+    
+    const cookieContainer = document.getElementById("cookie-container");
+    const fondoAvisoCookies = document.getElementById("fondo-aviso-cookies");
+
+    if (cookieContainer) {
+      cookieContainer.classList.remove("active");
+    }
+    if (cookieContainer) {
+      fondoAvisoCookies.classList.remove("active");
+    }
+    if (dataLayer) {
+      dataLayer.push({ event: "cookies-aceptadas" });
+    }
+
+    localStorage.setItem("cookieBannerDisplayed", "true");    
+  };
+  
+</script><a rel="alternate" id="config_markup_deferred" href="/wps/contenthandler/!ut/p/digest!rsdgijjKccf50OAGRo1kgA/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_contextmenu_templates__0.0%3Aconfig_markup&amp;entry=wp_skin_cam__0.0%3Aconfig_markup&amp;entry=wp_dnd_main__0.0%3Aconfig_markup&amp;deferred=true" style="display:none"> Deferred Modules </a><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!j7GebSzo2hDJQO3NgCnl5Q/mashup/ra:collection?themeID=ZJ_2G9I1K41NGEQ90QLOF5K4B11J2&amp;locale=es&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1674171396000&amp;entry=wp_one_ui_303__0.0%3Aconfig_js"></script></div>
+
+  
+
+
+<script type="text/javascript" id="" src="https://ads01.groovinads.com/grv/track/bhpx.os?idc=6968&amp;fgjs=1&amp;sku=https%3A%2F%2Fwww.banistmo.com%2Fwps%2Fportal%2Fbanistmo%2Fpersonas&amp;idcategory="></script>
+</body></html>
